@@ -99,7 +99,7 @@ A Random Forest predicts whether the next 5 days are high risk from the last 5 d
 
 Recall is prioritised because a missed infection costs more than a false alarm. Precision is still low, which means many false alarms.
 
-### 4. From detection to action: zone map (PPT slide 10 demo)
+### 4. From detection to action: zone map 
 
 NDVI stress per zone is combined with the weather risk to give a zone-wise recommendation (spray + scout, scout, or no action). In this synthetic field only 2 of 16 zones need spraying.
 
